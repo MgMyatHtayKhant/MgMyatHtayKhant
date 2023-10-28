@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Myat Htay Khant.</h1>
 <h3 align="center">Trying to become a Web Developer.</h3>
 
-- 🌱 I’m currently learning **PHP.**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **mgmyathtaykhant@gmail.com**
 
